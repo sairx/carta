@@ -78,7 +78,7 @@ function abrirCarta() {
       input.style.borderColor = "";
       input.style.animation = "";
     }, 600);
-    alert("Ese no es el código amor 💔 (pista: D..i");
+    alert("Ese no es el código mi reina 💔 (pista: D..i");
     return;
   }
 
